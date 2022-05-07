@@ -1,0 +1,6 @@
+img, iframe{
+    display: none;
+}
+.disp{
+    display: block;
+}
